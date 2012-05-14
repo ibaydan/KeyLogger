@@ -1,0 +1,5 @@
+D:\FREELANCE\KeyLogger\obj\Debug\ResolveAssemblyReference.cache
+D:\FREELANCE\KeyLogger\bin\Debug\KeyLogger.exe
+D:\FREELANCE\KeyLogger\bin\Debug\KeyLogger.pdb
+D:\FREELANCE\KeyLogger\obj\Debug\KeyLogger.exe
+D:\FREELANCE\KeyLogger\obj\Debug\KeyLogger.pdb
